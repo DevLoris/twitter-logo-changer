@@ -1,7 +1,7 @@
 {
-  "manifest_version": 4,
-  "name": "Twitter Logo Changer",
-  "version": "2.0",
+  "manifest_version": 3,
+  "name": "X Logo Changer by Loris",
+  "version": "2.0.2",
   "description": "No more X, Replace Twitter logo to classic.",
   "action": {
     "default_icon": {

@@ -43,7 +43,3 @@ const texts = document.querySelectorAll(' span');
 texts.forEach(v => {
   v.innerText = v.innerText.replace('X Corp.', 'Twitter Corp')
 })
-
-// TITLE
-const title = document.querySelector('title');
-title.innerText = v.innerText.replace('/ X', '/ Twitter')
