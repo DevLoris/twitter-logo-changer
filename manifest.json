@@ -1,8 +1,8 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 4,
   "name": "Twitter Logo Changer",
-  "version": "1.0",
-  "description": "No more doge, Replace Twitter logo to classic.",
+  "version": "2.0",
+  "description": "No more X, Replace Twitter logo to classic.",
   "action": {
     "default_icon": {
       "48": "logo.png"
